@@ -13,3 +13,6 @@ The pcb comes with 4 layers : The top and bottom layers are used for routing gpi
 
 
 
+# if you like the project , you can donate us for more : 
+
+    https://ko-fi.com/heyitsmeyo
